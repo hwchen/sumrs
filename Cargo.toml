@@ -1,0 +1,7 @@
+[package]
+authors = ["Walther Chen <walther.chen@gmail.com>"]
+name = "sumrs"
+version = "0.1.0"
+
+[dependencies]
+failure = "0.1.1"
